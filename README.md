@@ -38,67 +38,20 @@ Link Pubblico alla Web App
 
 
 
-Requisiti Funzionali
-RF1 – Registrazione e Login
+Requisiti 
+-come persona mi devo registrare
+-voglio fornire un piano personalizzato per ogni persona
+-come persona ottengo esercizi giornalieri
+-come persona voglio visualizzare i progressi giornalieri
+-voglio inserire un  aumento di difficoltà col passare del tempo per ogni persona
+-come persona visualizzo le statistiche per ogni esercizio
+-come utente scelgo un orario giornaliero per allenarmi
+-voglio inviare una notifica all'utente giornalmente all'orario impostato per l'allenamento
+-come utente lascio un feedback all'app dopo ogni allenamento
+-voglio fornire un periodo di riposo in base alla continuità della persona che svolge gli allenamenti
+-voglio inserire la possibilità di fare amicizie tra utenti e fornire una classifica amici e una mondiale
+-come utente posso visualizzare l'andamento dei miei amici
+-come utente visualizzo i miei progressi finali terminato il piano d'allenamento
+-voglio fornire la possibilità di creare un altro piano al termine di uno o salutare l'utente chiedendo un feedback finale sull'app
 
-RF1.1: Registrazione tramite email e password.
 
-RF1.2: Possibilità di login.
-
-RF1.3: Recupero password integrato.
-
-RF2 – Profilo Utente
-
-RF2.1: Inserimento dati personali (nome, età, livello fitness, obiettivi).
-
-RF2.2: Modifica dei dati personali in qualsiasi momento.
-
-RF2.3: Salvataggio dello storico degli allenamenti.
-
-RF3 – Allenamenti
-
-RF3.1: Proposta di allenamenti senza attrezzatura.
-
-RF3.2: Suddivisione degli allenamenti per livello (principiante, intermedio, avanzato).
-
-RF3.3: Sessioni brevi da 5 a 20 minuti.
-
-RF3.4: Visualizzazione degli esercizi con:
-
-descrizione testuale
-
-immagini o animazioni
-
-timer o numero di ripetizioni
-
-RF3.5: Generazione di allenamenti personalizzati in base al profilo utente.
-
-RF4 – Programmi di Allenamento
-
-RF4.1: Programmi settimanali o mensili preimpostati.
-
-RF4.2: Possibilità di avviare, seguire e completare un programma.
-
-RF5 – Timer e Funzionalità Interattive
-
-RF5.1: Timer integrato per esercizi e circuiti.
-
-RF5.2: Durante l’allenamento, possibilità di pausa o skip dell’esercizio.
-
-RF6 – Dashboard
-
-RF6.1: Visualizzazione dei progressi (allenamenti completati, tempo totale, calorie stimate).
-
-RF6.2: Suggerimento degli allenamenti consigliati del giorno.
-
-RF7 – Sistema di Feedback
-
-RF7.1: Valutazione degli allenamenti (ad esempio difficoltà percepita).
-
-RF7.2: Adattamento automatico dell’app sulla base del feedback.
-
-RF8 – Notifiche / Reminders
-
-RF8.1: Invio di promemoria per allenarsi.
-
-RF8.2: Notifiche configurabili dall’utente.
