@@ -34,15 +34,15 @@ Database: SQL
 
 Link Pubblico alla Web App
 
- https://flexi-move-fit.lovable.app
+https://daily-drill-buddy.lovable.app
 
 
 
 Requisiti 
--come persona mi devo registrare
--voglio fornire un piano personalizzato per ogni persona
--come persona ottengo esercizi giornalieri
--come persona voglio visualizzare i progressi giornalieri
+-come persona mi devo registrare al sito
+-a seguito di quesiti per ogni persona voglio fornire un piano personalizzato per ogni persona
+-come persona ottengo esercizi giornalieri 
+-come persona voglio visualizzare i miei progressi giornalieri
 -voglio inserire un  aumento di difficoltà col passare del tempo per ogni persona
 -come persona visualizzo le statistiche per ogni esercizio
 -come utente scelgo un orario giornaliero per allenarmi
